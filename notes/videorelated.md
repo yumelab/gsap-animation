@@ -1,11 +1,14 @@
 # Video Srubbing is not smooth
 
+## Problem 
 ### How you encode the video has huge implications on the playback ability of video. The video encoding is super important here to enable frame-by-frame scrubbing.
 
 ```
 ffmpeg -i ~/Downloads/Toshiba\ video/original.mov -movflags faststart -vcodec libx264 -crf 23 -g 1 -pix_fmt yuv420p output.mp4
 ffmpeg -i ~/Downloads/Toshiba\ video/original.mov -vf scale=960:-1 -movflags faststart -vcodec libx264 -crf 20 -g 1 -pix_fmt yuv420p output_960.mp4
 ```
+
+## Solution / Fix
 
 You can try exporting the video with more keyframes. 
 
