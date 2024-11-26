@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000)
 
  [Video Srubbing Related Notes](/notes/videorelated.md)
 
- [Image Related Notes](/notes/imageSequence.md)
+ [ImageSequence Animation Related Notes](/notes/imageSequence.md)
