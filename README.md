@@ -11,7 +11,9 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) 
 
 
-### Note 
+### Notes 
  [Scroll Based Animation](/notes/note.md)
 
  [Video Srubbing Related Notes](/notes/videorelated.md)
+
+ [Image Related Notes](/notes/imageSequence.md)
