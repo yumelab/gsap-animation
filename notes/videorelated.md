@@ -1,3 +1,5 @@
+# Video Srubbing is not smooth
+
 ### How you encode the video has huge implications on the playback ability of video. The video encoding is super important here to enable frame-by-frame scrubbing.
 
 ```
