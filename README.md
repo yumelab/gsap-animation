@@ -12,4 +12,6 @@ Open [http://localhost:3000](http://localhost:3000)
 
 
 ### Note 
- [Problem](/notes/note.md)
+ [Scroll Based Animation](/notes/note.md)
+
+ [Video Srubbing Related Notes](/notes/videorelated.md)
